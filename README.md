@@ -1,6 +1,6 @@
 # useReducer van
 
-**Exercise :cartwheeling:Lets build a van with useReducer :weight_lifting: **
+**:cartwheeling::weight_lifting: Lets build a van using useReducer**
 
 ![](./src/assets/van.gif)
 
