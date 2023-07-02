@@ -1,6 +1,6 @@
-# Exercise :cartwheeling::weight_lifting: useReducer 
+# Exercise :cartwheeling: useReducer 
 
-**Lets build a little van using useReducer**
+## Lets build a little van using useReducer
 
 ![](./src/assets/van.gif)
 
@@ -41,5 +41,5 @@ Your reducer function should be able to do the following actions:
 
 Show the current speed and gear of the van to the user. Show also buttons for the different actions
 
-**BONUS CHALLENGE** Show distance travelled
+**BONUS CHALLENGE :weight_lifting: Show distance travelled**
 
