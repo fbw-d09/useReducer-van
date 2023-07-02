@@ -1,6 +1,8 @@
-# ![](./src/assets/van.svg) useReducer Van 
+# useReducer van
 
 **Exercise :cartwheeling:Lets build a van with useReducer :weight_lifting: **
+
+![](./src/assets/van.gif)
 
 Lets create a van interface using `useReducer`.
 You don't need to make many different components, but your UI should have the following elements:
@@ -39,8 +41,6 @@ Your reducer function should be able to do the following actions:
 
 Show the current speed and gear of the van to the user
 Show also buttons for the different actions
-
-![](./src/assets/van.gif)
 
 **BONUS CHALLENGE** Show distance travelled
 
